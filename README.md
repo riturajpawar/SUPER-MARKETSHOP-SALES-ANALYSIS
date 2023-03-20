@@ -4,3 +4,6 @@ behaviour differs across a variety of parameters.
 • Created a timeline-based visualization of the sales trend.
 • Execute comprehensive analysis of all information and got
 Insights regarding the company.
+
+Tech-stack –
+• Microsoft Excel
